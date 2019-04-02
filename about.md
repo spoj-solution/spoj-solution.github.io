@@ -20,12 +20,12 @@ SPOJ Solution provide a collection of solution for spoj.com problems. In order t
 4. [https://github.com/krnbatra/SPOJ-Solutions](https://github.com/krnbatra/SPOJ-Solutions)
 
 
-Theme by [agusmakmun](https://github.com/agusmakmun/agusmakmun.github.io), customize by [spoj-solution](https://spoj-solution.github.io)
+Theme by [agusmakmun](https://github.com/agusmakmun/agusmakmun.github.io), customize by [vnspoj](https://vnspoj.github.io)
 
 
 ### Contribute
 
-[Visit here](https://github.com/spoj-solution/solution)
+[Visit here](https://github.com/spoj-solution/spoj-solution.github.io)
 
 ### Contact
 
