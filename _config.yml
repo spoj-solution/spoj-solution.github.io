@@ -1,0 +1,59 @@
+title: SPOJ Solution
+description: Hint and Solution for spoj.com website problems
+author: SPOJ Solution
+github: //github.com/spoj-solution
+about: Solution for spoj.com problem
+disqus_shortname: spoj-solution
+google_analytics: UA-121841178-3
+avatar_url: /static/img/favicon.png
+email: spojsolution7@gmail.com
+
+username: spoj-solution
+repo: solution
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "#"
+    - icon: fa-linkedin
+      link: "#"
+    - icon: fa-stack-overflow
+      link: "#"
+    - icon: fa-github
+      link: "//github.com/spoj-solution"
+
+share:
+  twitter_username: 
+  # fb_appid: 1749788565247320
+
+permalink: /:year/:month/:day/:title:output_ext
+
+urls:
+    - text: About Us
+      url: /about
+    - text: Categories
+      url: /category
+    - text: Blog
+      url: "#"
+    - text: Join with us
+      url: "//github.com/spoj-solution"
+
+url: ""
+baseurl: ""
+paginate: 50
+per_page: 50
+paginate_path: "/page/:num/"
+markdown: kramdown
+mathjax: true
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+
+sass:
+  style: compressed
