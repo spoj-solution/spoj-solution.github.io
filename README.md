@@ -2,7 +2,7 @@
 
 A collection of solution for all problems on SPOJ.COM website.
 
-Theme by [agusmakmun](https://github.com/agusmakmun/agusmakmun.github.io), customize by [spoj-solution](https://spoj-solution.github.io)
+Theme by [agusmakmun](https://github.com/agusmakmun/agusmakmun.github.io), customize by [vnspoj](https://vnspoj.github.io)
 
 ## Development
 
