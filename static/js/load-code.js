@@ -28,7 +28,7 @@
     $(selector).selectText();
     document.execCommand("copy");
     $(this).text('Copied').removeClass('btn-default').addClass('btn-success');
-    setTimeout(function() { $(this).text("Copy").removeClass('btn-success').addClass('btn-default'); }, 1000);
+    setTimeout(function() { $('.btn-copy').text("Copy").removeClass('btn-success').addClass('btn-default'); }, 1000);
     e.preventDefault();
   });
   $('.js-single-src').each(function () {
