@@ -40,7 +40,8 @@ urls:
       url: "//github.com/spoj-solution"
 
 url: ""
-baseurl: "https://spoj-solution.github.io"
+# baseurl: "https://spoj-solution.github.io"
+baseurl: ""
 paginate: 50
 per_page: 50
 paginate_path: "/page/:num/"
