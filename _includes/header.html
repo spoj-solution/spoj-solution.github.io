@@ -1,15 +1,16 @@
 <div class="header">
-  <a href="{{ site.url }}/"><img class="profile-avatar animated zoomIn duration-500" src="{{ site.url }}{{ site.avatar_url }}" height="120px" width="120px" /></a>
+  <a href="{{ site.url }}/"><img class="profile-avatar animated zoomIn duration-500"
+      src="{{ site.url }}{{ site.avatar_url }}" height="120px" width="120px" /></a>
   <h1 class="author-name animated fadeInUp duration-700">{{ site.author }}</h1>
   {% if site.about %}
-    <div class="profile-about animated fadeInUp duration-1000">
-      {{ site.about }}
-    </div>
+  <div class="profile-about animated fadeInUp duration-1000">
+    {{ site.about }}
+  </div>
   {% endif %}
   <div class="social animated fadeInLeft duration-700">
     <ul>
       {% for link in site.social %}
-        <li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a></li>
+      <li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a></li>
       {% endfor %}
     </ul>
   </div>
@@ -32,4 +33,17 @@
     </li>
     {% endfor %}
   </ul>
+</div>
+
+<!-- SPOJ BLOG SIDEBAR 1-->
+<div style="margin-top: 30px; margin-bottom: 30px"></div>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5101718850050799" data-ad-slot="3247365979"
+  data-ad-format="auto" data-full-width-responsive="true"></ins>
+</div>
+
+
+<!-- SPOJ BLOG SIDEBAR 2 -->
+<div style="margin-top: 30px; margin-bottom: 30px"></div>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5101718850050799" data-ad-slot="2552574864"
+  data-ad-format="auto" data-full-width-responsive="true"></ins>
 </div>
