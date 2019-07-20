@@ -8,7 +8,7 @@ src: 5B-CenterAlignment.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution codeforces 5B-CenterAlignment.cpp, codeforces 5B-CenterAlignment.cpp solution, tutorial 5B-CenterAlignment.cpp codeforces, 5B codeforce solution, 5B tutorial codeforces, 5B-CenterAlignment.cpp codeforces tutorial, solution codeforces 5B, codeforces 5B solution, 5B codeforces tutorial, solution 5B-CenterAlignment.cpp codeforces, 5B-CenterAlignment.cpp codeforce solution, codeforces solution 5B-CenterAlignment.cpp, solution 5B codeforces, codeforces solution 5B, 5B-CenterAlignment.cpp tutorial codeforces, tutorial 5B codeforces
+> tutorial 5b-centeralignment.cpp codeforces, 5b tutorial codeforces, 5b-centeralignment.cpp tutorial codeforces, codeforces solution 5b-centeralignment.cpp, 5b codeforce solution, solution 5b-centeralignment.cpp codeforces, 5b-centeralignment.cpp codeforces tutorial, solution codeforces 5b, codeforces solution 5b, codeforces 5b-centeralignment.cpp solution, solution codeforces 5b-centeralignment.cpp, tutorial 5b codeforces, codeforces 5b solution, solution 5b codeforces, 5b-centeralignment.cpp codeforce solution, 5b codeforces tutorial
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

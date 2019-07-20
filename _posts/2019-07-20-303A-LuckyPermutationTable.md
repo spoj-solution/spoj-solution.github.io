@@ -8,7 +8,7 @@ src: 303A-LuckyPermutationTable.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces 303A solution, 303A-LuckyPermutationTable.cpp codeforce solution, 303A tutorial codeforces, 303A codeforce solution, 303A codeforces tutorial, solution 303A codeforces, solution codeforces 303A, solution 303A-LuckyPermutationTable.cpp codeforces, codeforces solution 303A-LuckyPermutationTable.cpp, tutorial 303A-LuckyPermutationTable.cpp codeforces, tutorial 303A codeforces, codeforces solution 303A, solution codeforces 303A-LuckyPermutationTable.cpp, 303A-LuckyPermutationTable.cpp codeforces tutorial, 303A-LuckyPermutationTable.cpp tutorial codeforces, codeforces 303A-LuckyPermutationTable.cpp solution
+> codeforces solution 303a-luckypermutationtable.cpp, 303a-luckypermutationtable.cpp codeforces tutorial, 303a codeforce solution, codeforces 303a-luckypermutationtable.cpp solution, 303a-luckypermutationtable.cpp codeforce solution, codeforces 303a solution, 303a-luckypermutationtable.cpp tutorial codeforces, solution 303a codeforces, solution codeforces 303a, tutorial 303a codeforces, 303a codeforces tutorial, tutorial 303a-luckypermutationtable.cpp codeforces, codeforces solution 303a, solution 303a-luckypermutationtable.cpp codeforces, 303a tutorial codeforces, solution codeforces 303a-luckypermutationtable.cpp
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

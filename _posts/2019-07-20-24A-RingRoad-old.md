@@ -8,7 +8,7 @@ src: 24A-RingRoad-old.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution codeforces 24A, 24A-RingRoad-old.cpp codeforce solution, codeforces solution 24A, 24A-RingRoad-old.cpp codeforces tutorial, solution 24A-RingRoad-old.cpp codeforces, solution 24A codeforces, 24A-RingRoad-old.cpp tutorial codeforces, 24A codeforces tutorial, codeforces 24A-RingRoad-old.cpp solution, 24A tutorial codeforces, tutorial 24A codeforces, codeforces solution 24A-RingRoad-old.cpp, 24A codeforce solution, codeforces 24A solution, solution codeforces 24A-RingRoad-old.cpp, tutorial 24A-RingRoad-old.cpp codeforces
+> codeforces solution 24a, tutorial 24a codeforces, solution codeforces 24a-ringroad-old.cpp, codeforces solution 24a-ringroad-old.cpp, solution 24a-ringroad-old.cpp codeforces, 24a tutorial codeforces, 24a-ringroad-old.cpp tutorial codeforces, codeforces 24a solution, tutorial 24a-ringroad-old.cpp codeforces, 24a-ringroad-old.cpp codeforce solution, solution 24a codeforces, solution codeforces 24a, 24a codeforces tutorial, 24a-ringroad-old.cpp codeforces tutorial, codeforces 24a-ringroad-old.cpp solution, 24a codeforce solution
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

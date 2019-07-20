@@ -8,7 +8,7 @@ src: 269A-MagicalBoxes.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces solution 269A-MagicalBoxes.cpp, solution codeforces 269A-MagicalBoxes.cpp, 269A-MagicalBoxes.cpp tutorial codeforces, solution 269A-MagicalBoxes.cpp codeforces, tutorial 269A-MagicalBoxes.cpp codeforces, solution codeforces 269A, solution 269A codeforces, 269A codeforce solution, 269A-MagicalBoxes.cpp codeforce solution, 269A tutorial codeforces, codeforces 269A-MagicalBoxes.cpp solution, codeforces solution 269A, tutorial 269A codeforces, codeforces 269A solution, 269A codeforces tutorial, 269A-MagicalBoxes.cpp codeforces tutorial
+> codeforces 269a solution, solution codeforces 269a-magicalboxes.cpp, solution 269a codeforces, 269a-magicalboxes.cpp tutorial codeforces, tutorial 269a codeforces, solution codeforces 269a, codeforces solution 269a, tutorial 269a-magicalboxes.cpp codeforces, 269a codeforces tutorial, codeforces 269a-magicalboxes.cpp solution, 269a-magicalboxes.cpp codeforces tutorial, 269a-magicalboxes.cpp codeforce solution, 269a codeforce solution, solution 269a-magicalboxes.cpp codeforces, codeforces solution 269a-magicalboxes.cpp, 269a tutorial codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

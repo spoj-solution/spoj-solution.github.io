@@ -8,7 +8,7 @@ src: 175A-RobotBicornAttack.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 175A codeforce solution, tutorial 175A codeforces, codeforces solution 175A-RobotBicornAttack.cpp, solution codeforces 175A, 175A-RobotBicornAttack.cpp codeforces tutorial, tutorial 175A-RobotBicornAttack.cpp codeforces, 175A-RobotBicornAttack.cpp codeforce solution, codeforces 175A solution, 175A-RobotBicornAttack.cpp tutorial codeforces, 175A tutorial codeforces, 175A codeforces tutorial, solution 175A-RobotBicornAttack.cpp codeforces, solution codeforces 175A-RobotBicornAttack.cpp, solution 175A codeforces, codeforces 175A-RobotBicornAttack.cpp solution, codeforces solution 175A
+> tutorial 175a codeforces, codeforces solution 175a, 175a-robotbicornattack.cpp codeforce solution, codeforces 175a-robotbicornattack.cpp solution, codeforces 175a solution, solution 175a-robotbicornattack.cpp codeforces, 175a codeforce solution, solution codeforces 175a, 175a-robotbicornattack.cpp tutorial codeforces, codeforces solution 175a-robotbicornattack.cpp, 175a tutorial codeforces, 175a-robotbicornattack.cpp codeforces tutorial, tutorial 175a-robotbicornattack.cpp codeforces, 175a codeforces tutorial, solution 175a codeforces, solution codeforces 175a-robotbicornattack.cpp
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

@@ -8,7 +8,7 @@ src: 472D-DesignTutorialInverseTheProblem.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 472D-DesignTutorialInverseTheProblem.cpp codeforces tutorial, codeforces solution 472D-DesignTutorialInverseTheProblem.cpp, 472D codeforce solution, solution codeforces 472D-DesignTutorialInverseTheProblem.cpp, 472D codeforces tutorial, tutorial 472D codeforces, 472D-DesignTutorialInverseTheProblem.cpp codeforce solution, 472D-DesignTutorialInverseTheProblem.cpp tutorial codeforces, solution 472D-DesignTutorialInverseTheProblem.cpp codeforces, tutorial 472D-DesignTutorialInverseTheProblem.cpp codeforces, solution codeforces 472D, codeforces solution 472D, solution 472D codeforces, 472D tutorial codeforces, codeforces 472D-DesignTutorialInverseTheProblem.cpp solution, codeforces 472D solution
+> solution codeforces 472d-designtutorialinversetheproblem.cpp, 472d-designtutorialinversetheproblem.cpp codeforces tutorial, solution codeforces 472d, codeforces 472d solution, 472d-designtutorialinversetheproblem.cpp tutorial codeforces, codeforces solution 472d, 472d codeforces tutorial, solution 472d-designtutorialinversetheproblem.cpp codeforces, codeforces solution 472d-designtutorialinversetheproblem.cpp, 472d-designtutorialinversetheproblem.cpp codeforce solution, tutorial 472d-designtutorialinversetheproblem.cpp codeforces, 472d codeforce solution, 472d tutorial codeforces, tutorial 472d codeforces, codeforces 472d-designtutorialinversetheproblem.cpp solution, solution 472d codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

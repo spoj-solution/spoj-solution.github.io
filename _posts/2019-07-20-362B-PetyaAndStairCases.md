@@ -8,7 +8,7 @@ src: 362B-PetyaAndStairCases.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution 362B codeforces, codeforces 362B-PetyaAndStairCases.cpp solution, codeforces solution 362B, 362B-PetyaAndStairCases.cpp codeforce solution, solution 362B-PetyaAndStairCases.cpp codeforces, 362B codeforce solution, codeforces solution 362B-PetyaAndStairCases.cpp, 362B-PetyaAndStairCases.cpp tutorial codeforces, tutorial 362B codeforces, 362B-PetyaAndStairCases.cpp codeforces tutorial, 362B codeforces tutorial, solution codeforces 362B, codeforces 362B solution, tutorial 362B-PetyaAndStairCases.cpp codeforces, 362B tutorial codeforces, solution codeforces 362B-PetyaAndStairCases.cpp
+> solution codeforces 362b, solution 362b-petyaandstaircases.cpp codeforces, tutorial 362b-petyaandstaircases.cpp codeforces, 362b-petyaandstaircases.cpp tutorial codeforces, solution 362b codeforces, solution codeforces 362b-petyaandstaircases.cpp, 362b tutorial codeforces, codeforces 362b solution, codeforces 362b-petyaandstaircases.cpp solution, 362b-petyaandstaircases.cpp codeforces tutorial, codeforces solution 362b-petyaandstaircases.cpp, codeforces solution 362b, 362b codeforce solution, tutorial 362b codeforces, 362b-petyaandstaircases.cpp codeforce solution, 362b codeforces tutorial
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

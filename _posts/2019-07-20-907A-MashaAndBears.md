@@ -8,7 +8,7 @@ src: 907A-MashaAndBears.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces solution 907A-MashaAndBears.cpp, 907A-MashaAndBears.cpp codeforce solution, solution codeforces 907A-MashaAndBears.cpp, codeforces 907A solution, tutorial 907A codeforces, codeforces solution 907A, tutorial 907A-MashaAndBears.cpp codeforces, solution 907A codeforces, 907A tutorial codeforces, 907A-MashaAndBears.cpp tutorial codeforces, solution 907A-MashaAndBears.cpp codeforces, 907A-MashaAndBears.cpp codeforces tutorial, solution codeforces 907A, 907A codeforces tutorial, codeforces 907A-MashaAndBears.cpp solution, 907A codeforce solution
+> codeforces solution 907a, codeforces 907a solution, codeforces solution 907a-mashaandbears.cpp, 907a-mashaandbears.cpp tutorial codeforces, codeforces 907a-mashaandbears.cpp solution, 907a codeforces tutorial, solution codeforces 907a, tutorial 907a-mashaandbears.cpp codeforces, solution 907a codeforces, 907a codeforce solution, solution 907a-mashaandbears.cpp codeforces, 907a-mashaandbears.cpp codeforce solution, 907a tutorial codeforces, solution codeforces 907a-mashaandbears.cpp, 907a-mashaandbears.cpp codeforces tutorial, tutorial 907a codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

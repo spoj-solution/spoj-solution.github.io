@@ -8,7 +8,7 @@ src: 650B-ImagePreview.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces solution 650B, codeforces 650B solution, solution 650B-ImagePreview.cpp codeforces, codeforces 650B-ImagePreview.cpp solution, 650B-ImagePreview.cpp tutorial codeforces, 650B codeforce solution, solution codeforces 650B-ImagePreview.cpp, 650B tutorial codeforces, 650B codeforces tutorial, tutorial 650B-ImagePreview.cpp codeforces, tutorial 650B codeforces, codeforces solution 650B-ImagePreview.cpp, solution 650B codeforces, 650B-ImagePreview.cpp codeforce solution, solution codeforces 650B, 650B-ImagePreview.cpp codeforces tutorial
+> codeforces solution 650b-imagepreview.cpp, 650b tutorial codeforces, 650b-imagepreview.cpp codeforces tutorial, 650b-imagepreview.cpp codeforce solution, codeforces solution 650b, tutorial 650b codeforces, solution codeforces 650b, solution codeforces 650b-imagepreview.cpp, codeforces 650b-imagepreview.cpp solution, 650b codeforce solution, 650b-imagepreview.cpp tutorial codeforces, tutorial 650b-imagepreview.cpp codeforces, solution 650b codeforces, solution 650b-imagepreview.cpp codeforces, codeforces 650b solution, 650b codeforces tutorial
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

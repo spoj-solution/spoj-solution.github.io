@@ -8,7 +8,7 @@ src: 493A-VasyaAndFootball.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 493A tutorial codeforces, 493A-VasyaAndFootball.cpp tutorial codeforces, solution 493A-VasyaAndFootball.cpp codeforces, codeforces solution 493A, tutorial 493A codeforces, 493A-VasyaAndFootball.cpp codeforces tutorial, solution codeforces 493A, 493A codeforce solution, 493A codeforces tutorial, solution 493A codeforces, solution codeforces 493A-VasyaAndFootball.cpp, tutorial 493A-VasyaAndFootball.cpp codeforces, codeforces 493A solution, 493A-VasyaAndFootball.cpp codeforce solution, codeforces 493A-VasyaAndFootball.cpp solution, codeforces solution 493A-VasyaAndFootball.cpp
+> codeforces 493a-vasyaandfootball.cpp solution, 493a-vasyaandfootball.cpp tutorial codeforces, solution codeforces 493a, 493a codeforce solution, tutorial 493a-vasyaandfootball.cpp codeforces, codeforces solution 493a-vasyaandfootball.cpp, codeforces 493a solution, 493a codeforces tutorial, 493a-vasyaandfootball.cpp codeforce solution, solution 493a-vasyaandfootball.cpp codeforces, solution 493a codeforces, 493a-vasyaandfootball.cpp codeforces tutorial, 493a tutorial codeforces, tutorial 493a codeforces, solution codeforces 493a-vasyaandfootball.cpp, codeforces solution 493a
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

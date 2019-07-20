@@ -8,7 +8,7 @@ src: 5A-ChatServersOutgoingTraffic.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution codeforces 5A-ChatServersOutgoingTraffic.cpp, solution 5A-ChatServersOutgoingTraffic.cpp codeforces, 5A codeforce solution, 5A-ChatServersOutgoingTraffic.cpp tutorial codeforces, tutorial 5A codeforces, 5A-ChatServersOutgoingTraffic.cpp codeforces tutorial, codeforces 5A solution, 5A tutorial codeforces, 5A-ChatServersOutgoingTraffic.cpp codeforce solution, solution 5A codeforces, codeforces solution 5A-ChatServersOutgoingTraffic.cpp, 5A codeforces tutorial, codeforces solution 5A, solution codeforces 5A, tutorial 5A-ChatServersOutgoingTraffic.cpp codeforces, codeforces 5A-ChatServersOutgoingTraffic.cpp solution
+> codeforces 5a solution, tutorial 5a-chatserversoutgoingtraffic.cpp codeforces, 5a-chatserversoutgoingtraffic.cpp codeforces tutorial, tutorial 5a codeforces, codeforces 5a-chatserversoutgoingtraffic.cpp solution, solution 5a-chatserversoutgoingtraffic.cpp codeforces, 5a-chatserversoutgoingtraffic.cpp codeforce solution, codeforces solution 5a-chatserversoutgoingtraffic.cpp, codeforces solution 5a, solution codeforces 5a, 5a-chatserversoutgoingtraffic.cpp tutorial codeforces, 5a codeforce solution, solution 5a codeforces, 5a tutorial codeforces, solution codeforces 5a-chatserversoutgoingtraffic.cpp, 5a codeforces tutorial
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

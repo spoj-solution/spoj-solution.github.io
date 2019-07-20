@@ -8,7 +8,7 @@ src: 976B-LaraCroftAndTheNewGame.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 976B codeforces tutorial, codeforces solution 976B, codeforces solution 976B-LaraCroftAndTheNewGame.cpp, codeforces 976B solution, tutorial 976B-LaraCroftAndTheNewGame.cpp codeforces, 976B tutorial codeforces, 976B-LaraCroftAndTheNewGame.cpp tutorial codeforces, 976B codeforce solution, solution codeforces 976B, tutorial 976B codeforces, 976B-LaraCroftAndTheNewGame.cpp codeforces tutorial, 976B-LaraCroftAndTheNewGame.cpp codeforce solution, solution 976B codeforces, solution 976B-LaraCroftAndTheNewGame.cpp codeforces, codeforces 976B-LaraCroftAndTheNewGame.cpp solution, solution codeforces 976B-LaraCroftAndTheNewGame.cpp
+> tutorial 976b codeforces, tutorial 976b-laracroftandthenewgame.cpp codeforces, solution codeforces 976b-laracroftandthenewgame.cpp, 976b codeforces tutorial, codeforces 976b solution, codeforces solution 976b, 976b-laracroftandthenewgame.cpp codeforce solution, solution 976b-laracroftandthenewgame.cpp codeforces, solution codeforces 976b, 976b-laracroftandthenewgame.cpp codeforces tutorial, solution 976b codeforces, codeforces 976b-laracroftandthenewgame.cpp solution, 976b codeforce solution, codeforces solution 976b-laracroftandthenewgame.cpp, 976b tutorial codeforces, 976b-laracroftandthenewgame.cpp tutorial codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

@@ -8,7 +8,7 @@ src: 820A-MisterBAndBookReading.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces solution 820A-MisterBAndBookReading.cpp, codeforces solution 820A, solution 820A codeforces, solution codeforces 820A, solution 820A-MisterBAndBookReading.cpp codeforces, tutorial 820A-MisterBAndBookReading.cpp codeforces, codeforces 820A solution, 820A-MisterBAndBookReading.cpp codeforces tutorial, tutorial 820A codeforces, 820A-MisterBAndBookReading.cpp tutorial codeforces, 820A codeforce solution, codeforces 820A-MisterBAndBookReading.cpp solution, 820A codeforces tutorial, 820A-MisterBAndBookReading.cpp codeforce solution, 820A tutorial codeforces, solution codeforces 820A-MisterBAndBookReading.cpp
+> solution codeforces 820a, tutorial 820a-misterbandbookreading.cpp codeforces, codeforces 820a-misterbandbookreading.cpp solution, solution 820a-misterbandbookreading.cpp codeforces, 820a-misterbandbookreading.cpp codeforce solution, tutorial 820a codeforces, codeforces solution 820a-misterbandbookreading.cpp, 820a-misterbandbookreading.cpp codeforces tutorial, solution 820a codeforces, codeforces 820a solution, solution codeforces 820a-misterbandbookreading.cpp, 820a tutorial codeforces, 820a codeforce solution, 820a codeforces tutorial, 820a-misterbandbookreading.cpp tutorial codeforces, codeforces solution 820a
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

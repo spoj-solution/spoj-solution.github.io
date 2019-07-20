@@ -8,7 +8,7 @@ src: 1080B-MargariteAndTheBestPresent.cpp
 ### **Problem overviews**
 
 **Keywords**
-> tutorial 1080B codeforces, codeforces 1080B solution, solution 1080B-MargariteAndTheBestPresent.cpp codeforces, 1080B codeforce solution, 1080B codeforces tutorial, solution codeforces 1080B, solution 1080B codeforces, codeforces 1080B-MargariteAndTheBestPresent.cpp solution, codeforces solution 1080B-MargariteAndTheBestPresent.cpp, 1080B-MargariteAndTheBestPresent.cpp codeforces tutorial, 1080B tutorial codeforces, 1080B-MargariteAndTheBestPresent.cpp tutorial codeforces, 1080B-MargariteAndTheBestPresent.cpp codeforce solution, tutorial 1080B-MargariteAndTheBestPresent.cpp codeforces, codeforces solution 1080B, solution codeforces 1080B-MargariteAndTheBestPresent.cpp
+> codeforces solution 1080b, tutorial 1080b codeforces, 1080b codeforce solution, 1080b-margariteandthebestpresent.cpp codeforces tutorial, 1080b codeforces tutorial, 1080b-margariteandthebestpresent.cpp tutorial codeforces, codeforces solution 1080b-margariteandthebestpresent.cpp, solution 1080b-margariteandthebestpresent.cpp codeforces, tutorial 1080b-margariteandthebestpresent.cpp codeforces, codeforces 1080b-margariteandthebestpresent.cpp solution, codeforces 1080b solution, 1080b tutorial codeforces, 1080b-margariteandthebestpresent.cpp codeforce solution, solution 1080b codeforces, solution codeforces 1080b, solution codeforces 1080b-margariteandthebestpresent.cpp
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

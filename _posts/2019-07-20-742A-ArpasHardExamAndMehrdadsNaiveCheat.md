@@ -8,7 +8,7 @@ src: 742A-ArpasHardExamAndMehrdadsNaiveCheat.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 742A-ArpasHardExamAndMehrdadsNaiveCheat.cpp codeforce solution, 742A tutorial codeforces, solution codeforces 742A-ArpasHardExamAndMehrdadsNaiveCheat.cpp, 742A codeforces tutorial, codeforces 742A-ArpasHardExamAndMehrdadsNaiveCheat.cpp solution, 742A-ArpasHardExamAndMehrdadsNaiveCheat.cpp tutorial codeforces, solution codeforces 742A, codeforces 742A solution, codeforces solution 742A-ArpasHardExamAndMehrdadsNaiveCheat.cpp, tutorial 742A codeforces, tutorial 742A-ArpasHardExamAndMehrdadsNaiveCheat.cpp codeforces, 742A codeforce solution, solution 742A-ArpasHardExamAndMehrdadsNaiveCheat.cpp codeforces, 742A-ArpasHardExamAndMehrdadsNaiveCheat.cpp codeforces tutorial, codeforces solution 742A, solution 742A codeforces
+> codeforces solution 742a, solution 742a codeforces, 742a-arpashardexamandmehrdadsnaivecheat.cpp codeforce solution, codeforces 742a solution, codeforces solution 742a-arpashardexamandmehrdadsnaivecheat.cpp, 742a tutorial codeforces, solution codeforces 742a, solution codeforces 742a-arpashardexamandmehrdadsnaivecheat.cpp, 742a-arpashardexamandmehrdadsnaivecheat.cpp tutorial codeforces, codeforces 742a-arpashardexamandmehrdadsnaivecheat.cpp solution, tutorial 742a-arpashardexamandmehrdadsnaivecheat.cpp codeforces, 742a codeforce solution, 742a codeforces tutorial, tutorial 742a codeforces, solution 742a-arpashardexamandmehrdadsnaivecheat.cpp codeforces, 742a-arpashardexamandmehrdadsnaivecheat.cpp codeforces tutorial
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

@@ -8,7 +8,7 @@ src: 645C-EnduringExodus.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 645C-EnduringExodus.cpp tutorial codeforces, 645C codeforce solution, tutorial 645C codeforces, 645C-EnduringExodus.cpp codeforces tutorial, solution 645C-EnduringExodus.cpp codeforces, solution codeforces 645C-EnduringExodus.cpp, solution 645C codeforces, 645C codeforces tutorial, codeforces solution 645C-EnduringExodus.cpp, codeforces 645C solution, codeforces 645C-EnduringExodus.cpp solution, codeforces solution 645C, 645C tutorial codeforces, solution codeforces 645C, 645C-EnduringExodus.cpp codeforce solution, tutorial 645C-EnduringExodus.cpp codeforces
+> codeforces 645c solution, 645c codeforce solution, 645c codeforces tutorial, 645c-enduringexodus.cpp codeforce solution, codeforces solution 645c, codeforces 645c-enduringexodus.cpp solution, 645c-enduringexodus.cpp codeforces tutorial, tutorial 645c codeforces, solution codeforces 645c, codeforces solution 645c-enduringexodus.cpp, tutorial 645c-enduringexodus.cpp codeforces, solution codeforces 645c-enduringexodus.cpp, solution 645c codeforces, 645c-enduringexodus.cpp tutorial codeforces, solution 645c-enduringexodus.cpp codeforces, 645c tutorial codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

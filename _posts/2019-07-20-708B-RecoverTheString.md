@@ -8,7 +8,7 @@ src: 708B-RecoverTheString.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces 708B-RecoverTheString.cpp solution, codeforces solution 708B, 708B codeforce solution, tutorial 708B-RecoverTheString.cpp codeforces, solution 708B codeforces, 708B-RecoverTheString.cpp codeforce solution, solution codeforces 708B-RecoverTheString.cpp, solution 708B-RecoverTheString.cpp codeforces, codeforces solution 708B-RecoverTheString.cpp, 708B tutorial codeforces, 708B-RecoverTheString.cpp codeforces tutorial, 708B-RecoverTheString.cpp tutorial codeforces, codeforces 708B solution, 708B codeforces tutorial, solution codeforces 708B, tutorial 708B codeforces
+> 708b codeforces tutorial, codeforces solution 708b, 708b tutorial codeforces, codeforces 708b-recoverthestring.cpp solution, 708b-recoverthestring.cpp tutorial codeforces, solution 708b-recoverthestring.cpp codeforces, codeforces solution 708b-recoverthestring.cpp, 708b codeforce solution, solution 708b codeforces, 708b-recoverthestring.cpp codeforces tutorial, solution codeforces 708b-recoverthestring.cpp, tutorial 708b-recoverthestring.cpp codeforces, solution codeforces 708b, codeforces 708b solution, 708b-recoverthestring.cpp codeforce solution, tutorial 708b codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

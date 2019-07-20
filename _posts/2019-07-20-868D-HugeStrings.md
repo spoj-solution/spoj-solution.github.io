@@ -8,7 +8,7 @@ src: 868D-HugeStrings.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces solution 868D, solution codeforces 868D-HugeStrings.cpp, 868D-HugeStrings.cpp tutorial codeforces, solution 868D-HugeStrings.cpp codeforces, 868D codeforces tutorial, codeforces 868D-HugeStrings.cpp solution, 868D tutorial codeforces, 868D-HugeStrings.cpp codeforce solution, codeforces 868D solution, tutorial 868D codeforces, solution codeforces 868D, tutorial 868D-HugeStrings.cpp codeforces, 868D codeforce solution, codeforces solution 868D-HugeStrings.cpp, solution 868D codeforces, 868D-HugeStrings.cpp codeforces tutorial
+> solution 868d-hugestrings.cpp codeforces, solution codeforces 868d-hugestrings.cpp, 868d-hugestrings.cpp tutorial codeforces, 868d codeforces tutorial, solution codeforces 868d, codeforces 868d solution, solution 868d codeforces, 868d tutorial codeforces, codeforces 868d-hugestrings.cpp solution, tutorial 868d codeforces, 868d codeforce solution, codeforces solution 868d, 868d-hugestrings.cpp codeforce solution, 868d-hugestrings.cpp codeforces tutorial, codeforces solution 868d-hugestrings.cpp, tutorial 868d-hugestrings.cpp codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

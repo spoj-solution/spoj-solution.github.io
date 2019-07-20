@@ -8,7 +8,7 @@ src: 552A-VanyaAndTable.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution codeforces 552A, codeforces 552A solution, 552A tutorial codeforces, 552A-VanyaAndTable.cpp tutorial codeforces, 552A-VanyaAndTable.cpp codeforce solution, 552A codeforces tutorial, solution codeforces 552A-VanyaAndTable.cpp, codeforces 552A-VanyaAndTable.cpp solution, tutorial 552A-VanyaAndTable.cpp codeforces, 552A-VanyaAndTable.cpp codeforces tutorial, codeforces solution 552A-VanyaAndTable.cpp, 552A codeforce solution, tutorial 552A codeforces, solution 552A-VanyaAndTable.cpp codeforces, solution 552A codeforces, codeforces solution 552A
+> tutorial 552a codeforces, codeforces 552a solution, solution 552a-vanyaandtable.cpp codeforces, 552a-vanyaandtable.cpp codeforce solution, solution 552a codeforces, codeforces solution 552a-vanyaandtable.cpp, codeforces solution 552a, 552a-vanyaandtable.cpp codeforces tutorial, 552a codeforces tutorial, codeforces 552a-vanyaandtable.cpp solution, 552a-vanyaandtable.cpp tutorial codeforces, 552a codeforce solution, solution codeforces 552a-vanyaandtable.cpp, tutorial 552a-vanyaandtable.cpp codeforces, solution codeforces 552a, 552a tutorial codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

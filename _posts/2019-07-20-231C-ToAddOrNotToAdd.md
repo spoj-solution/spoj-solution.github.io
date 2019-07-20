@@ -8,7 +8,7 @@ src: 231C-ToAddOrNotToAdd.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces 231C solution, codeforces 231C-ToAddOrNotToAdd.cpp solution, tutorial 231C codeforces, 231C-ToAddOrNotToAdd.cpp codeforce solution, solution 231C-ToAddOrNotToAdd.cpp codeforces, tutorial 231C-ToAddOrNotToAdd.cpp codeforces, codeforces solution 231C, solution codeforces 231C, 231C codeforces tutorial, codeforces solution 231C-ToAddOrNotToAdd.cpp, 231C tutorial codeforces, 231C-ToAddOrNotToAdd.cpp codeforces tutorial, 231C-ToAddOrNotToAdd.cpp tutorial codeforces, 231C codeforce solution, solution codeforces 231C-ToAddOrNotToAdd.cpp, solution 231C codeforces
+> codeforces 231c-toaddornottoadd.cpp solution, solution codeforces 231c, solution 231c-toaddornottoadd.cpp codeforces, tutorial 231c codeforces, 231c tutorial codeforces, 231c-toaddornottoadd.cpp codeforces tutorial, 231c codeforces tutorial, 231c-toaddornottoadd.cpp tutorial codeforces, codeforces 231c solution, solution 231c codeforces, 231c codeforce solution, codeforces solution 231c, solution codeforces 231c-toaddornottoadd.cpp, codeforces solution 231c-toaddornottoadd.cpp, 231c-toaddornottoadd.cpp codeforce solution, tutorial 231c-toaddornottoadd.cpp codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

@@ -8,7 +8,7 @@ src: 476D-DreamoonAndSets.cpp
 ### **Problem overviews**
 
 **Keywords**
-> tutorial 476D-DreamoonAndSets.cpp codeforces, 476D-DreamoonAndSets.cpp tutorial codeforces, codeforces solution 476D-DreamoonAndSets.cpp, 476D-DreamoonAndSets.cpp codeforce solution, codeforces 476D-DreamoonAndSets.cpp solution, 476D tutorial codeforces, 476D codeforce solution, solution 476D codeforces, solution codeforces 476D-DreamoonAndSets.cpp, 476D-DreamoonAndSets.cpp codeforces tutorial, 476D codeforces tutorial, tutorial 476D codeforces, codeforces solution 476D, codeforces 476D solution, solution 476D-DreamoonAndSets.cpp codeforces, solution codeforces 476D
+> 476d-dreamoonandsets.cpp codeforce solution, tutorial 476d-dreamoonandsets.cpp codeforces, tutorial 476d codeforces, solution codeforces 476d-dreamoonandsets.cpp, 476d-dreamoonandsets.cpp codeforces tutorial, codeforces 476d-dreamoonandsets.cpp solution, 476d tutorial codeforces, solution codeforces 476d, 476d codeforces tutorial, codeforces solution 476d, 476d-dreamoonandsets.cpp tutorial codeforces, codeforces solution 476d-dreamoonandsets.cpp, solution 476d codeforces, 476d codeforce solution, solution 476d-dreamoonandsets.cpp codeforces, codeforces 476d solution
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

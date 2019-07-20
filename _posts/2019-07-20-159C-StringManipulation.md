@@ -8,7 +8,7 @@ src: 159C-StringManipulation.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution 159C codeforces, 159C-StringManipulation.cpp codeforces tutorial, 159C-StringManipulation.cpp codeforce solution, solution codeforces 159C-StringManipulation.cpp, 159C codeforces tutorial, codeforces solution 159C, codeforces 159C-StringManipulation.cpp solution, codeforces 159C solution, tutorial 159C codeforces, 159C tutorial codeforces, solution codeforces 159C, tutorial 159C-StringManipulation.cpp codeforces, 159C codeforce solution, solution 159C-StringManipulation.cpp codeforces, codeforces solution 159C-StringManipulation.cpp, 159C-StringManipulation.cpp tutorial codeforces
+> tutorial 159c codeforces, 159c codeforce solution, 159c-stringmanipulation.cpp tutorial codeforces, solution 159c codeforces, codeforces 159c solution, tutorial 159c-stringmanipulation.cpp codeforces, 159c-stringmanipulation.cpp codeforce solution, solution codeforces 159c-stringmanipulation.cpp, 159c tutorial codeforces, solution codeforces 159c, 159c-stringmanipulation.cpp codeforces tutorial, codeforces 159c-stringmanipulation.cpp solution, 159c codeforces tutorial, solution 159c-stringmanipulation.cpp codeforces, codeforces solution 159c-stringmanipulation.cpp, codeforces solution 159c
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

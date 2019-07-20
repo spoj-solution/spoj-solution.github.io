@@ -8,7 +8,7 @@ src: 855B-MarvoloGauntsRing.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 855B-MarvoloGauntsRing.cpp tutorial codeforces, solution 855B-MarvoloGauntsRing.cpp codeforces, codeforces 855B-MarvoloGauntsRing.cpp solution, codeforces 855B solution, solution codeforces 855B, codeforces solution 855B-MarvoloGauntsRing.cpp, 855B codeforce solution, tutorial 855B-MarvoloGauntsRing.cpp codeforces, 855B tutorial codeforces, solution 855B codeforces, codeforces solution 855B, 855B-MarvoloGauntsRing.cpp codeforce solution, 855B codeforces tutorial, tutorial 855B codeforces, solution codeforces 855B-MarvoloGauntsRing.cpp, 855B-MarvoloGauntsRing.cpp codeforces tutorial
+> 855b codeforces tutorial, 855b tutorial codeforces, tutorial 855b codeforces, 855b-marvologauntsring.cpp codeforce solution, codeforces solution 855b, 855b codeforce solution, 855b-marvologauntsring.cpp codeforces tutorial, tutorial 855b-marvologauntsring.cpp codeforces, 855b-marvologauntsring.cpp tutorial codeforces, solution 855b-marvologauntsring.cpp codeforces, codeforces 855b solution, solution 855b codeforces, codeforces 855b-marvologauntsring.cpp solution, solution codeforces 855b-marvologauntsring.cpp, codeforces solution 855b-marvologauntsring.cpp, solution codeforces 855b
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

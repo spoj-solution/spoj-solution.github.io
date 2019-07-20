@@ -8,7 +8,7 @@ src: 552C-VanyaAndScales.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution codeforces 552C-VanyaAndScales.cpp, 552C-VanyaAndScales.cpp tutorial codeforces, tutorial 552C codeforces, codeforces 552C-VanyaAndScales.cpp solution, codeforces solution 552C-VanyaAndScales.cpp, 552C codeforces tutorial, solution 552C codeforces, 552C-VanyaAndScales.cpp codeforce solution, solution 552C-VanyaAndScales.cpp codeforces, 552C codeforce solution, 552C-VanyaAndScales.cpp codeforces tutorial, codeforces solution 552C, solution codeforces 552C, tutorial 552C-VanyaAndScales.cpp codeforces, codeforces 552C solution, 552C tutorial codeforces
+> 552c tutorial codeforces, solution 552c-vanyaandscales.cpp codeforces, 552c codeforces tutorial, 552c-vanyaandscales.cpp codeforce solution, solution 552c codeforces, codeforces 552c solution, 552c codeforce solution, codeforces 552c-vanyaandscales.cpp solution, tutorial 552c-vanyaandscales.cpp codeforces, codeforces solution 552c, 552c-vanyaandscales.cpp tutorial codeforces, solution codeforces 552c, tutorial 552c codeforces, 552c-vanyaandscales.cpp codeforces tutorial, codeforces solution 552c-vanyaandscales.cpp, solution codeforces 552c-vanyaandscales.cpp
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

@@ -8,7 +8,7 @@ src: 34A-Reconnaissance2.cpp
 ### **Problem overviews**
 
 **Keywords**
-> tutorial 34A codeforces, solution 34A-Reconnaissance2.cpp codeforces, codeforces solution 34A, 34A-Reconnaissance2.cpp codeforce solution, 34A-Reconnaissance2.cpp codeforces tutorial, codeforces 34A solution, 34A codeforces tutorial, solution codeforces 34A-Reconnaissance2.cpp, solution codeforces 34A, 34A-Reconnaissance2.cpp tutorial codeforces, tutorial 34A-Reconnaissance2.cpp codeforces, 34A codeforce solution, solution 34A codeforces, codeforces solution 34A-Reconnaissance2.cpp, codeforces 34A-Reconnaissance2.cpp solution, 34A tutorial codeforces
+> codeforces 34a-reconnaissance2.cpp solution, tutorial 34a codeforces, 34a tutorial codeforces, solution 34a codeforces, solution codeforces 34a-reconnaissance2.cpp, 34a-reconnaissance2.cpp codeforce solution, codeforces solution 34a-reconnaissance2.cpp, 34a codeforce solution, 34a-reconnaissance2.cpp tutorial codeforces, 34a-reconnaissance2.cpp codeforces tutorial, solution codeforces 34a, 34a codeforces tutorial, solution 34a-reconnaissance2.cpp codeforces, codeforces solution 34a, codeforces 34a solution, tutorial 34a-reconnaissance2.cpp codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

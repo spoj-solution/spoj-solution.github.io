@@ -8,7 +8,7 @@ src: 451C-PredictOutcomeOfTheGame.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution codeforces 451C-PredictOutcomeOfTheGame.cpp, codeforces solution 451C-PredictOutcomeOfTheGame.cpp, 451C tutorial codeforces, solution 451C codeforces, 451C-PredictOutcomeOfTheGame.cpp tutorial codeforces, codeforces solution 451C, tutorial 451C-PredictOutcomeOfTheGame.cpp codeforces, solution 451C-PredictOutcomeOfTheGame.cpp codeforces, tutorial 451C codeforces, solution codeforces 451C, 451C-PredictOutcomeOfTheGame.cpp codeforces tutorial, 451C codeforce solution, codeforces 451C-PredictOutcomeOfTheGame.cpp solution, 451C codeforces tutorial, 451C-PredictOutcomeOfTheGame.cpp codeforce solution, codeforces 451C solution
+> solution codeforces 451c, codeforces 451c-predictoutcomeofthegame.cpp solution, codeforces solution 451c-predictoutcomeofthegame.cpp, solution codeforces 451c-predictoutcomeofthegame.cpp, 451c codeforce solution, tutorial 451c-predictoutcomeofthegame.cpp codeforces, solution 451c codeforces, 451c-predictoutcomeofthegame.cpp codeforce solution, codeforces solution 451c, tutorial 451c codeforces, 451c-predictoutcomeofthegame.cpp tutorial codeforces, 451c tutorial codeforces, 451c-predictoutcomeofthegame.cpp codeforces tutorial, codeforces 451c solution, solution 451c-predictoutcomeofthegame.cpp codeforces, 451c codeforces tutorial
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

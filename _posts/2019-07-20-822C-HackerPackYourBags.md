@@ -8,7 +8,7 @@ src: 822C-HackerPackYourBags.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 822C-HackerPackYourBags.cpp codeforces tutorial, solution 822C-HackerPackYourBags.cpp codeforces, 822C codeforces tutorial, codeforces solution 822C-HackerPackYourBags.cpp, tutorial 822C-HackerPackYourBags.cpp codeforces, 822C codeforce solution, solution 822C codeforces, 822C-HackerPackYourBags.cpp codeforce solution, solution codeforces 822C, solution codeforces 822C-HackerPackYourBags.cpp, codeforces solution 822C, 822C-HackerPackYourBags.cpp tutorial codeforces, codeforces 822C-HackerPackYourBags.cpp solution, 822C tutorial codeforces, codeforces 822C solution, tutorial 822C codeforces
+> 822c tutorial codeforces, 822c-hackerpackyourbags.cpp codeforces tutorial, 822c-hackerpackyourbags.cpp tutorial codeforces, tutorial 822c-hackerpackyourbags.cpp codeforces, codeforces solution 822c, codeforces 822c solution, codeforces 822c-hackerpackyourbags.cpp solution, 822c codeforces tutorial, codeforces solution 822c-hackerpackyourbags.cpp, solution codeforces 822c, solution 822c codeforces, tutorial 822c codeforces, solution 822c-hackerpackyourbags.cpp codeforces, solution codeforces 822c-hackerpackyourbags.cpp, 822c-hackerpackyourbags.cpp codeforce solution, 822c codeforce solution
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

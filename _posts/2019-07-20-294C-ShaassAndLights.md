@@ -8,7 +8,7 @@ src: 294C-ShaassAndLights.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 294C tutorial codeforces, solution codeforces 294C, tutorial 294C codeforces, codeforces 294C-ShaassAndLights.cpp solution, codeforces solution 294C, solution codeforces 294C-ShaassAndLights.cpp, 294C-ShaassAndLights.cpp codeforce solution, codeforces 294C solution, 294C-ShaassAndLights.cpp tutorial codeforces, codeforces solution 294C-ShaassAndLights.cpp, 294C codeforce solution, 294C-ShaassAndLights.cpp codeforces tutorial, 294C codeforces tutorial, solution 294C-ShaassAndLights.cpp codeforces, tutorial 294C-ShaassAndLights.cpp codeforces, solution 294C codeforces
+> 294c codeforce solution, codeforces 294c-shaassandlights.cpp solution, codeforces 294c solution, 294c-shaassandlights.cpp codeforce solution, solution codeforces 294c-shaassandlights.cpp, tutorial 294c codeforces, 294c-shaassandlights.cpp codeforces tutorial, 294c tutorial codeforces, solution 294c-shaassandlights.cpp codeforces, codeforces solution 294c-shaassandlights.cpp, 294c-shaassandlights.cpp tutorial codeforces, codeforces solution 294c, 294c codeforces tutorial, solution 294c codeforces, solution codeforces 294c, tutorial 294c-shaassandlights.cpp codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

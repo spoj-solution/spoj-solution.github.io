@@ -8,7 +8,7 @@ src: 439B-DevuTheDumbGuy.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution 439B codeforces, 439B-DevuTheDumbGuy.cpp codeforces tutorial, 439B-DevuTheDumbGuy.cpp tutorial codeforces, 439B-DevuTheDumbGuy.cpp codeforce solution, 439B codeforce solution, 439B codeforces tutorial, codeforces solution 439B, codeforces solution 439B-DevuTheDumbGuy.cpp, solution codeforces 439B-DevuTheDumbGuy.cpp, tutorial 439B codeforces, 439B tutorial codeforces, codeforces 439B solution, codeforces 439B-DevuTheDumbGuy.cpp solution, tutorial 439B-DevuTheDumbGuy.cpp codeforces, solution 439B-DevuTheDumbGuy.cpp codeforces, solution codeforces 439B
+> codeforces solution 439b-devuthedumbguy.cpp, 439b-devuthedumbguy.cpp codeforce solution, codeforces 439b-devuthedumbguy.cpp solution, codeforces 439b solution, 439b codeforces tutorial, solution 439b codeforces, 439b tutorial codeforces, tutorial 439b codeforces, solution codeforces 439b-devuthedumbguy.cpp, 439b-devuthedumbguy.cpp codeforces tutorial, solution codeforces 439b, tutorial 439b-devuthedumbguy.cpp codeforces, codeforces solution 439b, solution 439b-devuthedumbguy.cpp codeforces, 439b codeforce solution, 439b-devuthedumbguy.cpp tutorial codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

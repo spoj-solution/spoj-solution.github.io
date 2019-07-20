@@ -8,7 +8,7 @@ src: 731B-CouponsAndDiscounts.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces solution 731B-CouponsAndDiscounts.cpp, 731B-CouponsAndDiscounts.cpp codeforces tutorial, solution 731B-CouponsAndDiscounts.cpp codeforces, 731B tutorial codeforces, codeforces solution 731B, tutorial 731B-CouponsAndDiscounts.cpp codeforces, codeforces 731B-CouponsAndDiscounts.cpp solution, 731B codeforces tutorial, codeforces 731B solution, solution codeforces 731B-CouponsAndDiscounts.cpp, solution codeforces 731B, 731B codeforce solution, tutorial 731B codeforces, solution 731B codeforces, 731B-CouponsAndDiscounts.cpp codeforce solution, 731B-CouponsAndDiscounts.cpp tutorial codeforces
+> codeforces 731b solution, solution codeforces 731b-couponsanddiscounts.cpp, tutorial 731b codeforces, 731b codeforces tutorial, 731b tutorial codeforces, tutorial 731b-couponsanddiscounts.cpp codeforces, 731b-couponsanddiscounts.cpp tutorial codeforces, codeforces solution 731b-couponsanddiscounts.cpp, solution codeforces 731b, solution 731b-couponsanddiscounts.cpp codeforces, 731b-couponsanddiscounts.cpp codeforces tutorial, codeforces 731b-couponsanddiscounts.cpp solution, codeforces solution 731b, solution 731b codeforces, 731b-couponsanddiscounts.cpp codeforce solution, 731b codeforce solution
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

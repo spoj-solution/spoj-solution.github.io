@@ -8,7 +8,7 @@ src: 272D-DimaAndTwoSequences.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 272D-DimaAndTwoSequences.cpp codeforce solution, codeforces solution 272D-DimaAndTwoSequences.cpp, codeforces 272D-DimaAndTwoSequences.cpp solution, 272D codeforces tutorial, tutorial 272D codeforces, solution codeforces 272D-DimaAndTwoSequences.cpp, 272D codeforce solution, 272D-DimaAndTwoSequences.cpp tutorial codeforces, solution codeforces 272D, solution 272D codeforces, codeforces solution 272D, tutorial 272D-DimaAndTwoSequences.cpp codeforces, codeforces 272D solution, 272D-DimaAndTwoSequences.cpp codeforces tutorial, solution 272D-DimaAndTwoSequences.cpp codeforces, 272D tutorial codeforces
+> solution codeforces 272d, 272d-dimaandtwosequences.cpp tutorial codeforces, 272d tutorial codeforces, tutorial 272d codeforces, 272d-dimaandtwosequences.cpp codeforce solution, codeforces solution 272d-dimaandtwosequences.cpp, codeforces 272d-dimaandtwosequences.cpp solution, solution 272d codeforces, 272d-dimaandtwosequences.cpp codeforces tutorial, codeforces 272d solution, 272d codeforce solution, 272d codeforces tutorial, solution 272d-dimaandtwosequences.cpp codeforces, solution codeforces 272d-dimaandtwosequences.cpp, codeforces solution 272d, tutorial 272d-dimaandtwosequences.cpp codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

@@ -8,7 +8,7 @@ src: 472B-DesignTutorialLearnFromLife.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution codeforces 472B, solution codeforces 472B-DesignTutorialLearnFromLife.cpp, 472B-DesignTutorialLearnFromLife.cpp codeforce solution, 472B tutorial codeforces, 472B codeforces tutorial, 472B-DesignTutorialLearnFromLife.cpp tutorial codeforces, codeforces 472B-DesignTutorialLearnFromLife.cpp solution, tutorial 472B codeforces, solution 472B-DesignTutorialLearnFromLife.cpp codeforces, codeforces solution 472B, 472B codeforce solution, solution 472B codeforces, codeforces solution 472B-DesignTutorialLearnFromLife.cpp, tutorial 472B-DesignTutorialLearnFromLife.cpp codeforces, codeforces 472B solution, 472B-DesignTutorialLearnFromLife.cpp codeforces tutorial
+> codeforces 472b solution, 472b-designtutoriallearnfromlife.cpp codeforce solution, solution 472b-designtutoriallearnfromlife.cpp codeforces, 472b codeforces tutorial, solution codeforces 472b, solution codeforces 472b-designtutoriallearnfromlife.cpp, 472b-designtutoriallearnfromlife.cpp tutorial codeforces, codeforces solution 472b-designtutoriallearnfromlife.cpp, 472b tutorial codeforces, solution 472b codeforces, 472b-designtutoriallearnfromlife.cpp codeforces tutorial, tutorial 472b-designtutoriallearnfromlife.cpp codeforces, codeforces solution 472b, 472b codeforce solution, codeforces 472b-designtutoriallearnfromlife.cpp solution, tutorial 472b codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

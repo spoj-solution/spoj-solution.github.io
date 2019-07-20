@@ -8,7 +8,7 @@ src: 870C-MaximumSplitting.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 870C codeforce solution, codeforces solution 870C-MaximumSplitting.cpp, codeforces 870C solution, solution codeforces 870C-MaximumSplitting.cpp, solution 870C codeforces, tutorial 870C-MaximumSplitting.cpp codeforces, codeforces solution 870C, solution 870C-MaximumSplitting.cpp codeforces, 870C-MaximumSplitting.cpp codeforce solution, tutorial 870C codeforces, 870C codeforces tutorial, solution codeforces 870C, 870C-MaximumSplitting.cpp codeforces tutorial, 870C tutorial codeforces, codeforces 870C-MaximumSplitting.cpp solution, 870C-MaximumSplitting.cpp tutorial codeforces
+> codeforces 870c solution, 870c tutorial codeforces, 870c codeforce solution, 870c-maximumsplitting.cpp tutorial codeforces, codeforces solution 870c, 870c-maximumsplitting.cpp codeforce solution, 870c-maximumsplitting.cpp codeforces tutorial, solution 870c codeforces, solution 870c-maximumsplitting.cpp codeforces, codeforces 870c-maximumsplitting.cpp solution, solution codeforces 870c-maximumsplitting.cpp, codeforces solution 870c-maximumsplitting.cpp, solution codeforces 870c, 870c codeforces tutorial, tutorial 870c codeforces, tutorial 870c-maximumsplitting.cpp codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

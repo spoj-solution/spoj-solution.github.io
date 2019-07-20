@@ -8,7 +8,7 @@ src: 798B-MikeAndStrings.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 798B tutorial codeforces, 798B codeforces tutorial, codeforces 798B-MikeAndStrings.cpp solution, 798B codeforce solution, solution 798B-MikeAndStrings.cpp codeforces, tutorial 798B codeforces, tutorial 798B-MikeAndStrings.cpp codeforces, codeforces solution 798B-MikeAndStrings.cpp, 798B-MikeAndStrings.cpp codeforce solution, codeforces 798B solution, solution codeforces 798B-MikeAndStrings.cpp, codeforces solution 798B, solution codeforces 798B, 798B-MikeAndStrings.cpp codeforces tutorial, solution 798B codeforces, 798B-MikeAndStrings.cpp tutorial codeforces
+> codeforces 798b-mikeandstrings.cpp solution, 798b-mikeandstrings.cpp codeforce solution, codeforces 798b solution, 798b-mikeandstrings.cpp tutorial codeforces, tutorial 798b codeforces, solution codeforces 798b-mikeandstrings.cpp, solution 798b-mikeandstrings.cpp codeforces, 798b tutorial codeforces, tutorial 798b-mikeandstrings.cpp codeforces, codeforces solution 798b, solution codeforces 798b, 798b-mikeandstrings.cpp codeforces tutorial, 798b codeforces tutorial, 798b codeforce solution, codeforces solution 798b-mikeandstrings.cpp, solution 798b codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 
