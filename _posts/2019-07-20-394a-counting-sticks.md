@@ -8,7 +8,7 @@ src: 394A-CountingSticks.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces counting sticks solution, tutorial counting sticks codeforces, solution codeforces 394a, 394a codeforce solution, codeforces solution 394a, 394a tutorial codeforces, solution 394a codeforces, 394a codeforces tutorial, counting sticks codeforce solution, codeforces 394a solution, codeforces solution counting sticks, counting sticks codeforces tutorial, solution codeforces counting sticks, solution counting sticks codeforces, tutorial 394a codeforces, counting sticks tutorial codeforces
+> 394A codeforces tutorial, codeforces solution 394A, solution codeforces 394A, Counting Sticks codeforces tutorial, solution Counting Sticks codeforces, tutorial 394A codeforces, 394A tutorial codeforces, codeforces Counting Sticks solution, solution codeforces Counting Sticks, codeforces solution Counting Sticks, solution 394A codeforces, 394A codeforce solution, codeforces 394A solution, tutorial Counting Sticks codeforces, Counting Sticks tutorial codeforces, Counting Sticks codeforce solution
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

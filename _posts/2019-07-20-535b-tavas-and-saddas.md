@@ -8,7 +8,7 @@ src: 535B-TavasAndSaDDas.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces tavas and saddas solution, solution tavas and saddas codeforces, 535b codeforce solution, tavas and saddas codeforce solution, tutorial 535b codeforces, tavas and saddas codeforces tutorial, solution codeforces tavas and saddas, codeforces solution 535b, codeforces 535b solution, codeforces solution tavas and saddas, 535b tutorial codeforces, tutorial tavas and saddas codeforces, solution 535b codeforces, solution codeforces 535b, tavas and saddas tutorial codeforces, 535b codeforces tutorial
+> solution 535B codeforces, solution codeforces 535B, 535B tutorial codeforces, solution codeforces Tavas and SaDDas, codeforces Tavas and SaDDas solution, codeforces solution 535B, tutorial Tavas and SaDDas codeforces, tutorial 535B codeforces, codeforces 535B solution, Tavas and SaDDas codeforce solution, 535B codeforce solution, Tavas and SaDDas codeforces tutorial, Tavas and SaDDas tutorial codeforces, codeforces solution Tavas and SaDDas, 535B codeforces tutorial, solution Tavas and SaDDas codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

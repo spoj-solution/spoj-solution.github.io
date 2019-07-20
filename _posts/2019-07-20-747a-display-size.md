@@ -8,7 +8,7 @@ src: 747A-DisplaySize.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution display size codeforces, display size tutorial codeforces, tutorial 747a codeforces, solution 747a codeforces, display size codeforce solution, display size codeforces tutorial, solution codeforces display size, tutorial display size codeforces, codeforces display size solution, 747a tutorial codeforces, 747a codeforce solution, solution codeforces 747a, codeforces solution display size, codeforces solution 747a, 747a codeforces tutorial, codeforces 747a solution
+> codeforces 747A solution, tutorial Display Size codeforces, Display Size tutorial codeforces, solution Display Size codeforces, codeforces solution Display Size, 747A codeforces tutorial, solution codeforces Display Size, 747A codeforce solution, solution 747A codeforces, Display Size codeforces tutorial, solution codeforces 747A, Display Size codeforce solution, codeforces solution 747A, codeforces Display Size solution, tutorial 747A codeforces, 747A tutorial codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

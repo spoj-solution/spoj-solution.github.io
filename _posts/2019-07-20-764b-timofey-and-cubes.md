@@ -8,7 +8,7 @@ src: 764B-TimofeyAndCubes.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces timofey and cubes solution, codeforces 764b solution, solution 764b codeforces, solution codeforces timofey and cubes, timofey and cubes codeforces tutorial, timofey and cubes codeforce solution, codeforces solution 764b, 764b codeforces tutorial, 764b codeforce solution, solution timofey and cubes codeforces, 764b tutorial codeforces, tutorial timofey and cubes codeforces, solution codeforces 764b, tutorial 764b codeforces, codeforces solution timofey and cubes, timofey and cubes tutorial codeforces
+> codeforces Timofey and cubes solution, 764B codeforces tutorial, Timofey and cubes codeforces tutorial, solution codeforces Timofey and cubes, Timofey and cubes tutorial codeforces, Timofey and cubes codeforce solution, tutorial 764B codeforces, tutorial Timofey and cubes codeforces, solution codeforces 764B, codeforces 764B solution, 764B tutorial codeforces, solution Timofey and cubes codeforces, codeforces solution 764B, 764B codeforce solution, solution 764B codeforces, codeforces solution Timofey and cubes
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

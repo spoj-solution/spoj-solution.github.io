@@ -8,7 +8,7 @@ src: 868B-RaceAgainstTime.cpp
 ### **Problem overviews**
 
 **Keywords**
-> race against time codeforce solution, codeforces race against time solution, 868b tutorial codeforces, solution codeforces 868b, codeforces 868b solution, solution 868b codeforces, 868b codeforces tutorial, 868b codeforce solution, race against time codeforces tutorial, race against time tutorial codeforces, codeforces solution race against time, solution race against time codeforces, tutorial race against time codeforces, solution codeforces race against time, tutorial 868b codeforces, codeforces solution 868b
+> tutorial 868B codeforces, Race Against Time codeforce solution, codeforces Race Against Time solution, solution Race Against Time codeforces, 868B tutorial codeforces, codeforces solution Race Against Time, solution codeforces 868B, Race Against Time tutorial codeforces, codeforces solution 868B, solution codeforces Race Against Time, 868B codeforces tutorial, codeforces 868B solution, tutorial Race Against Time codeforces, 868B codeforce solution, Race Against Time codeforces tutorial, solution 868B codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

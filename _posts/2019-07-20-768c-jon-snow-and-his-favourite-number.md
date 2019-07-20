@@ -8,7 +8,7 @@ src: 768C-JonSnowAndHisFavoriteNumber.cpp
 ### **Problem overviews**
 
 **Keywords**
-> tutorial jon snow and his favourite number codeforces, solution 768c codeforces, solution codeforces jon snow and his favourite number, tutorial 768c codeforces, codeforces jon snow and his favourite number solution, jon snow and his favourite number codeforce solution, codeforces solution jon snow and his favourite number, 768c tutorial codeforces, codeforces 768c solution, solution jon snow and his favourite number codeforces, codeforces solution 768c, jon snow and his favourite number tutorial codeforces, jon snow and his favourite number codeforces tutorial, solution codeforces 768c, 768c codeforces tutorial, 768c codeforce solution
+> codeforces 768C solution, 768C codeforce solution, Jon Snow and his Favourite Number codeforce solution, 768C tutorial codeforces, solution Jon Snow and his Favourite Number codeforces, solution 768C codeforces, codeforces Jon Snow and his Favourite Number solution, codeforces solution 768C, 768C codeforces tutorial, codeforces solution Jon Snow and his Favourite Number, tutorial Jon Snow and his Favourite Number codeforces, tutorial 768C codeforces, solution codeforces Jon Snow and his Favourite Number, Jon Snow and his Favourite Number codeforces tutorial, solution codeforces 768C, Jon Snow and his Favourite Number tutorial codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

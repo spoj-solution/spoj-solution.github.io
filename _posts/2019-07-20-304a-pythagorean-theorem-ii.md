@@ -8,7 +8,7 @@ src: 304A-PythagoreanTheroem2.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces solution pythagorean theorem ii, tutorial 304a codeforces, solution codeforces pythagorean theorem ii, pythagorean theorem ii codeforces tutorial, solution pythagorean theorem ii codeforces, codeforces pythagorean theorem ii solution, solution codeforces 304a, codeforces 304a solution, 304a codeforce solution, solution 304a codeforces, 304a codeforces tutorial, codeforces solution 304a, pythagorean theorem ii codeforce solution, 304a tutorial codeforces, pythagorean theorem ii tutorial codeforces, tutorial pythagorean theorem ii codeforces
+> solution codeforces 304A, tutorial 304A codeforces, solution Pythagorean Theorem II codeforces, tutorial Pythagorean Theorem II codeforces, solution codeforces Pythagorean Theorem II, Pythagorean Theorem II codeforces tutorial, codeforces solution Pythagorean Theorem II, 304A codeforces tutorial, solution 304A codeforces, Pythagorean Theorem II tutorial codeforces, codeforces 304A solution, 304A codeforce solution, 304A tutorial codeforces, codeforces solution 304A, Pythagorean Theorem II codeforce solution, codeforces Pythagorean Theorem II solution
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

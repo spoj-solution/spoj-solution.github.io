@@ -8,7 +8,7 @@ src: 802J-SendTheFoolFurtherEasy.cpp
 ### **Problem overviews**
 
 **Keywords**
-> tutorial 802j codeforces, solution send the fool further! (easy) codeforces, send the fool further! (easy) codeforce solution, send the fool further! (easy) tutorial codeforces, codeforces solution send the fool further! (easy), solution codeforces 802j, 802j tutorial codeforces, codeforces 802j solution, 802j codeforce solution, codeforces solution 802j, solution codeforces send the fool further! (easy), 802j codeforces tutorial, codeforces send the fool further! (easy) solution, tutorial send the fool further! (easy) codeforces, solution 802j codeforces, send the fool further! (easy) codeforces tutorial
+> 802J codeforces tutorial, Send the Fool Further! (easy) tutorial codeforces, tutorial 802J codeforces, 802J codeforce solution, codeforces Send the Fool Further! (easy) solution, solution codeforces Send the Fool Further! (easy), 802J tutorial codeforces, Send the Fool Further! (easy) codeforce solution, solution Send the Fool Further! (easy) codeforces, solution codeforces 802J, codeforces 802J solution, solution 802J codeforces, tutorial Send the Fool Further! (easy) codeforces, Send the Fool Further! (easy) codeforces tutorial, codeforces solution Send the Fool Further! (easy), codeforces solution 802J
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

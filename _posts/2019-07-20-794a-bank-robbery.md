@@ -8,7 +8,7 @@ src: 794A-BankRobbery.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution codeforces 794a, codeforces bank robbery solution, codeforces solution 794a, solution codeforces bank robbery, solution 794a codeforces, tutorial bank robbery codeforces, codeforces solution bank robbery, bank robbery codeforce solution, solution bank robbery codeforces, bank robbery codeforces tutorial, 794a codeforces tutorial, tutorial 794a codeforces, 794a codeforce solution, codeforces 794a solution, bank robbery tutorial codeforces, 794a tutorial codeforces
+> tutorial Bank Robbery codeforces, Bank Robbery codeforces tutorial, solution codeforces Bank Robbery, Bank Robbery tutorial codeforces, Bank Robbery codeforce solution, 794A codeforces tutorial, solution 794A codeforces, 794A tutorial codeforces, solution Bank Robbery codeforces, 794A codeforce solution, codeforces Bank Robbery solution, codeforces solution Bank Robbery, solution codeforces 794A, tutorial 794A codeforces, codeforces solution 794A, codeforces 794A solution
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

@@ -8,7 +8,7 @@ src: 811A-VladikAndCourtesy.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces 811a solution, vladik and courtesy tutorial codeforces, solution codeforces 811a, 811a tutorial codeforces, tutorial 811a codeforces, solution vladik and courtesy codeforces, vladik and courtesy codeforces tutorial, codeforces solution vladik and courtesy, codeforces solution 811a, tutorial vladik and courtesy codeforces, 811a codeforce solution, solution codeforces vladik and courtesy, 811a codeforces tutorial, solution 811a codeforces, vladik and courtesy codeforce solution, codeforces vladik and courtesy solution
+> tutorial 811A codeforces, 811A codeforce solution, Vladik and Courtesy codeforces tutorial, codeforces solution 811A, codeforces Vladik and Courtesy solution, solution codeforces 811A, 811A tutorial codeforces, codeforces 811A solution, solution 811A codeforces, Vladik and Courtesy tutorial codeforces, solution codeforces Vladik and Courtesy, solution Vladik and Courtesy codeforces, tutorial Vladik and Courtesy codeforces, Vladik and Courtesy codeforce solution, codeforces solution Vladik and Courtesy, 811A codeforces tutorial
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

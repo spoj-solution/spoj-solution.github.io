@@ -8,7 +8,7 @@ src: 1017C-ThePhoneNumber.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 1017c codeforce solution, codeforces 1017c solution, solution 1017c codeforces, 1017c codeforces tutorial, the phone number codeforce solution, tutorial 1017c codeforces, solution codeforces the phone number, solution codeforces 1017c, codeforces solution the phone number, codeforces the phone number solution, the phone number codeforces tutorial, the phone number tutorial codeforces, codeforces solution 1017c, tutorial the phone number codeforces, solution the phone number codeforces, 1017c tutorial codeforces
+> codeforces solution The Phone Number, solution codeforces The Phone Number, codeforces solution 1017C, solution codeforces 1017C, tutorial 1017C codeforces, 1017C codeforce solution, codeforces 1017C solution, codeforces The Phone Number solution, The Phone Number codeforce solution, solution The Phone Number codeforces, 1017C codeforces tutorial, The Phone Number codeforces tutorial, The Phone Number tutorial codeforces, solution 1017C codeforces, tutorial The Phone Number codeforces, 1017C tutorial codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 

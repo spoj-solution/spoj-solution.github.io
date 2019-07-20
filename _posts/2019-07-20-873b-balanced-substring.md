@@ -8,7 +8,7 @@ src: 873B-BalancedString.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces 873b solution, balanced substring tutorial codeforces, codeforces solution 873b, tutorial balanced substring codeforces, solution codeforces 873b, tutorial 873b codeforces, solution balanced substring codeforces, 873b codeforces tutorial, codeforces solution balanced substring, solution 873b codeforces, balanced substring codeforce solution, 873b codeforce solution, solution codeforces balanced substring, 873b tutorial codeforces, codeforces balanced substring solution, balanced substring codeforces tutorial
+> solution codeforces Balanced Substring, 873B codeforces tutorial, solution 873B codeforces, 873B codeforce solution, Balanced Substring codeforce solution, tutorial Balanced Substring codeforces, codeforces solution Balanced Substring, 873B tutorial codeforces, Balanced Substring codeforces tutorial, solution Balanced Substring codeforces, codeforces 873B solution, tutorial 873B codeforces, Balanced Substring tutorial codeforces, codeforces Balanced Substring solution, codeforces solution 873B, solution codeforces 873B
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 
