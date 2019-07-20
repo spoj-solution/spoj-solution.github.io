@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Codeforces https:codeforces.comproblemsetproblem645C. Enduring Exodus solution
+title:  Codeforces 645C. Enduring Exodus solution
 categories: ['binary search', 'two pointers']
 code: EnduringExodus
 src: 645C-EnduringExodus.cpp
@@ -8,13 +8,13 @@ src: 645C-EnduringExodus.cpp
 ### **Problem overviews**
 
 **Keywords**
-> 645c codeforce solution, codeforces 645c solution, enduringexodus codeforces tutorial, 645c codeforces tutorial, 645c tutorial codeforces, codeforces solution enduringexodus, codeforces solution 645c, solution 645c codeforces, solution codeforces 645c, enduringexodus codeforce solution, codeforces enduringexodus solution, tutorial 645c codeforces, enduringexodus tutorial codeforces, solution enduringexodus codeforces, tutorial enduringexodus codeforces, solution codeforces enduringexodus
+> enduringexodus codeforces tutorial, tutorial 645c codeforces, codeforces solution 645c, codeforces 645c solution, enduringexodus tutorial codeforces, 645c codeforce solution, 645c tutorial codeforces, solution codeforces enduringexodus, solution enduringexodus codeforces, 645c codeforces tutorial, solution codeforces 645c, codeforces enduringexodus solution, tutorial enduringexodus codeforces, enduringexodus codeforce solution, codeforces solution enduringexodus, solution 645c codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (1A, 28B, ...) on search box. 
 
 **Problems Url**
-> https://codeforces.com/problemset/problem/645/C
+> [https://codeforces.com/problemset/problem/645/C](https://codeforces.com/problemset/problem/645/C){:rel="nofollow"}{:target="_blank"}
 
 #### **Solution**
 
