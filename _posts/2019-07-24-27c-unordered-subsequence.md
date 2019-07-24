@@ -8,7 +8,7 @@ src: 27C-UnorderedSubsequence.cpp
 ### **Problem overviews**
 
 **Keywords**
-> Unordered Subsequence tutorial codeforces, codeforces solution 27C, tutorial 27C codeforces, codeforces solution Unordered Subsequence, 27C tutorial codeforces, solution codeforces 27C, 27C codeforces tutorial, solution codeforces Unordered Subsequence, codeforces Unordered Subsequence solution, Unordered Subsequence codeforces tutorial, solution Unordered Subsequence codeforces, Unordered Subsequence codeforce solution, 27C codeforce solution, tutorial Unordered Subsequence codeforces, solution 27C codeforces, codeforces 27C solution
+> codeforces solution 27C, tutorial 27C codeforces, tutorial Unordered Subsequence codeforces, 27C tutorial codeforces, codeforces Unordered Subsequence solution, codeforces solution Unordered Subsequence, solution 27C codeforces, solution codeforces Unordered Subsequence, Unordered Subsequence codeforces tutorial, Unordered Subsequence codeforce solution, codeforces 27C solution, solution Unordered Subsequence codeforces, 27C codeforce solution, 27C codeforces tutorial, solution codeforces 27C, Unordered Subsequence tutorial codeforces
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (**1A, 28B**, ...) on search box. 

@@ -8,7 +8,7 @@ src: 682C-AlyonaAndTree.cpp
 ### **Problem overviews**
 
 **Keywords**
-> solution Alyona and the Tree codeforces, codeforces Alyona and the Tree solution, solution codeforces 682C, Alyona and the Tree codeforce solution, codeforces solution Alyona and the Tree, 682C codeforces tutorial, solution 682C codeforces, tutorial Alyona and the Tree codeforces, codeforces solution 682C, Alyona and the Tree tutorial codeforces, 682C codeforce solution, codeforces 682C solution, 682C tutorial codeforces, tutorial 682C codeforces, Alyona and the Tree codeforces tutorial, solution codeforces Alyona and the Tree
+> Alyona and the Tree tutorial codeforces, codeforces solution Alyona and the Tree, solution codeforces Alyona and the Tree, codeforces solution 682C, tutorial Alyona and the Tree codeforces, 682C codeforce solution, Alyona and the Tree codeforces tutorial, solution codeforces 682C, solution Alyona and the Tree codeforces, tutorial 682C codeforces, 682C tutorial codeforces, 682C codeforces tutorial, codeforces Alyona and the Tree solution, Alyona and the Tree codeforce solution, solution 682C codeforces, codeforces 682C solution
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (**1A, 28B**, ...) on search box. 

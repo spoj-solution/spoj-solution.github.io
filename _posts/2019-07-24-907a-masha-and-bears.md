@@ -8,7 +8,7 @@ src: 907A-MashaAndBears.cpp
 ### **Problem overviews**
 
 **Keywords**
-> codeforces 907A solution, tutorial Masha and Bears codeforces, codeforces solution 907A, Masha and Bears codeforce solution, Masha and Bears codeforces tutorial, Masha and Bears tutorial codeforces, tutorial 907A codeforces, 907A codeforces tutorial, codeforces solution Masha and Bears, 907A tutorial codeforces, codeforces Masha and Bears solution, solution codeforces 907A, solution 907A codeforces, solution codeforces Masha and Bears, 907A codeforce solution, solution Masha and Bears codeforces
+> 907A codeforces tutorial, codeforces solution 907A, tutorial Masha and Bears codeforces, codeforces 907A solution, solution 907A codeforces, 907A tutorial codeforces, Masha and Bears tutorial codeforces, tutorial 907A codeforces, 907A codeforce solution, solution codeforces Masha and Bears, solution codeforces 907A, codeforces Masha and Bears solution, Masha and Bears codeforce solution, solution Masha and Bears codeforces, codeforces solution Masha and Bears, Masha and Bears codeforces tutorial
 
 **Hint**
 > To find solution for any problems, Enter probleam_id (**1A, 28B**, ...) on search box. 
