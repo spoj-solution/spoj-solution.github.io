@@ -39,7 +39,7 @@
       lang = filename.split('.')[1];
     }
 
-    $.get(`https://spoj-solution.github.io/solution/src/${filename}`, (code) => {
+    $.get(`https://code.free4dev.com/solution/src/${filename}`, (code) => {
       const highlightCode = Prism.highlight(code, Prism.languages[lang]);
       $src.find('.js-source-code')
         .addClass(`language-${lang}`)
